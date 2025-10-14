@@ -1,4 +1,5 @@
-{int_1=10;
+{
+int_1=10;
 cout << " int_1 = " << int_1 << " | тип: int, размер 4 6. " << endl;
 int_2=5
 cout << " int_2 = " << int_2 << " | тип: int, размер 4 6. << endl;
@@ -9,7 +10,8 @@ cout << " int_4 = " << int_4 << " | тип: int, размер 4 6. << endl;
 int_5=-6
 cout << " int_5 = " << int_5 << " | тип: int, размер 4 6. << endl;
 }
-{short s_1 = 1;
+{
+  short s_1 = 1;
 cout << "s_1 =  " << s_1 << " | тип: short, размер: 2 6. << endl;
   short s_2 = 234;
 cout << "s_2 =  " << s_2 << " | тип: short, размер: 2 6. << endl;
@@ -43,4 +45,16 @@ cout << " char_3 = " << char_3 << " | тип: char, размер: 1 б. " << end
 cout << " char_4 = " << char_4 << " | тип: char, размер: 1 б. " << endl;
     char_5 = "9";
 cout << " char_5 = " << char_5 << " | тип: char, размер: 1 б. " << endl;  
+ }
+ {
+   bool_1= "t";
+ cout << " bool_1 = " << bool_1 << " | тип: bool, рфзмер: 1 б. " << endl;
+   bool_2= "t";
+ cout << " bool_2 = " << bool_2 << " | тип: bool, рфзмер: 1 б. " << endl;
+   bool_3= "f";
+ cout << " bool_3 = " << bool_3 << " | тип: bool, рфзмер: 1 б. " << endl;
+   bool_4= "t";
+ cout << " bool_4 = " << bool_4 << " | тип: bool, рфзмер: 1 б. " << endl;
+   bool_5= "f";
+ cout << " bool_5 = " << bool_5 << " | тип: bool, рфзмер: 1 б. " << endl;
  }
