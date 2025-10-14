@@ -2,7 +2,7 @@
 int_1=10;
 cout << " int_1 = " << int_1 << " | тип: int, размер 4 6. " << endl;
 int_2=5
-cout << " int_2 = " << int_2 << " | тип: int, размер 4 6. << endl;
+cout << " int_2 = " << int_2 << " | тип: int, размер 4 6. << endl; 
 int_3=0 
 cout << " int_3 = " << int_3 << " | тип: int, размер 4 6. << endl;
 int_4=26
